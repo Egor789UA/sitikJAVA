@@ -4,11 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <img src="/WIN_20250919_20_04_25_Pro.jpg" alt="/WIN_20250919_20_04_25_Pro" width="35%">
-
+Я люблю котиків і собачок
 </head>
 <body>
-        розробник сайту
-    <script src="javka.js"></script>
+      <script src="javka.js"></script>
 </body>
 </html>
